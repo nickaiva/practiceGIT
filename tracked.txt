@@ -1,1 +1,1 @@
- A text. Some more text. 
+ A text. Some more text. More text for a third commit.
